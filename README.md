@@ -40,6 +40,6 @@
 </p>
 
 ### 📊  My Dummy Stats: 
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinagas&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinagas&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calvinagas&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinagas&layout=compact&theme=vision-friendly-dark)](https://github.com/calvinagas/github-readme-stats)
