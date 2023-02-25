@@ -1,4 +1,4 @@
-### Hi there 👋  I'm a Junior Full Stack Developer 👨‍💻
+### Hi there 👋  I'm a Software Developer 👨‍💻
 
 - 🔭 I’m currently working on multiple project and keep on learning
 - 🌱 I’m currently learning PHP and Python for web development and data analytic
